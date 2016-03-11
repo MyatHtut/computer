@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/_style.scss"],"names":[],"mappings":"AAAA;EACE,eAAe,EAChB;;AAED;EACE,0BAA0B,EAC3B;;AAED;EACE,YAAY,EACb","file":"app.css","sourcesContent":["h1{\n  color: #ffff00;\n}\n\n.bg{\n  background-color: #009688;\n}\n\n.font-col{\n  color: #fff;\n}"],"sourceRoot":"/source/"}
